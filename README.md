@@ -27,7 +27,7 @@ This EFI has only been tested on Mac OS 14 `Sonoma` and Mac OS 15 `Sequoia`.
 | Touchpad with all gestures and buttons            | ✅     |                                   |
 | Ethernet                                          | ✅     |                                   |
 | Wifi                                              | ✅     |Intel only with Heliport on Sequoia|
-| Bluetooth                                         | ✅ /❌ |Only Working on Sonoma.            |
+| Bluetooth                                         | ✅ /❌ |Only Working on Sonoma            |
 | SD Card Reader                                    | ✅     |                                   |
 | Camera & Mic                                      | ✅     |                                   |
 | Speaker & 3.5mm audio port                        | ✅     |Speaker working fine but audio jack is distorted (might be specific to my machine) |
