@@ -38,7 +38,7 @@ This EFI has only been tested on Mac OS 14 `Sonoma` and Mac OS 15 `Sequoia`.
 | Airdrop                                           | ❌     |                                   |
 
 
-## How to use?
+## Usage
 
 Download my EFI, Change your Serial with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) and install.
 
