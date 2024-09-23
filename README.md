@@ -10,7 +10,7 @@ This EFI has only been tested on Mac OS 14 `Sonoma` and Mac OS 15 `Sequoia`.
 | Part             | Description                                                                                                    |
 | ---------------- | -------------------------------------------------------------------------------------------------------------- |
 | CPU              | Intel® Core™ i3-8130u Processor (will most likely work on core i5/i7 variants too)                             |
-| iGPU             | Intel® HD 620                                                                                                  |
+| iGPU             | Intel® HD 620     (Guide to give 64mb of VRAM found [here](https://github.com/lukeshondas/Dell-Latitude-5290-Opencore/blob/main/Update%20bios%20to%2064MB.md)   |
 | Memory           | 32Gb (2 x 16Gb 2400MHz) (should work fine with 8gb+)                                                           |
 | Storage          | SSD 512gb NVMe (should work fine with SATA SSD's too)                                                          |
 | Display          | 12.5 inch 1366x768 TN Panel (Please let me know if you have tried a 1080p or IPS variant and if it works)      |
