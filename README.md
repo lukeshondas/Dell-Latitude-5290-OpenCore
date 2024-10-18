@@ -23,7 +23,7 @@ This EFI has been tested on Mac OS 13 `Ventura` Mac OS 14 `Sonoma` and Mac OS 15
 
 |                                                   | Status | Note                              |
 | ------------------------------------------------- | ------ | ----------------------------------|
-| Keyboard (with volume keys, , media control keys) | ✅     |                                   |
+| Keyboard (with volume keys and brightness control keys) | ✅     |                                   |
 | Touchpad with all gestures and buttons            | ✅     |                                   |
 | Ethernet                                          | ✅     |                                   |
 | Wifi                                              | ✅     |Intel only with [Heliport](https://github.com/OpenIntelWireless/HeliPort) on Sequoia and Ventura|
